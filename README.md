@@ -1,2 +1,2 @@
 # learn-github
-This repository to learn GitHub
+This repository to get started with GitHub
